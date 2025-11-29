@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Obsidian移动端同步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Obsidian移动端同步"
             }
           }
         ]
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "解构.md",
+            "file": "Obsidian移动端同步.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,6 +155,8 @@
   "active": "c86eda05b07c3599",
   "lastOpenFiles": [
     "EXERCISES.md",
+    "Obsidian移动端同步.md",
+    "使用前请PULL，有更改记得PUSH！！！.md",
     "解构.md",
     "README.md"
   ]
