@@ -36,3 +36,5 @@ git pull origin master
 cd "/storage/emulated/0/Obsidian_AllPlatform/OSDN_BackUp"
 （在Obsidian_AllPlatform下多了个文件夹）
 
+P.S.新设备会有一些额外操作，比如授予权限，设置全局用户名邮箱，设置安全权限，
+
