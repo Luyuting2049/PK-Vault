@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "解构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "解构"
             }
           }
         ]
@@ -154,7 +154,8 @@
   },
   "active": "c86eda05b07c3599",
   "lastOpenFiles": [
-    "解构.md",
-    "README.md"
+    "EXERCISES.md",
+    "README.md",
+    "解构.md"
   ]
 }
