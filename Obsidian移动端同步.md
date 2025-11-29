@@ -12,9 +12,11 @@ git add .
 git commit -m "相关提交信息"
 	提交到本地git仓库
 git push origin master
-	把
+	把内容推送到远程仓库
+	冲突什么的太麻烦了，直接输入以下这行吧：
+	git push --force origin master
 
 ## 从远程仓库拉取内容
 git pull origin master
-	注意这里，一开始半天没弄起来是因为
+	注意这里，一开始半天没弄起来是因为master写成main了。现在使用的这个分支是master
 
