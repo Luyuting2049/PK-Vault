@@ -1,12 +1,16 @@
 ---
+NoteType: Whole-Book Note
 tags:
-  - Maths
+  - "#Template"
+Date: 2026-03-03
+Detail: Detailed information of the book.（Author，Time，Edition…）
 ---
 # Contents
 ``` toc
 
 ```
-# 1. 
+
+# 1. Date：年份-开始月-结束月. Plugins：Automatic Table Of Contents
 
 # 2. 
 

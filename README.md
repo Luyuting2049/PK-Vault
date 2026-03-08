@@ -13,25 +13,28 @@ text: Statement of note management.
 # Preface
 
 ***Existential On Top!***
+Welcome to Wanderer's Personal-Knowledge Vault.
 
-
+书的笔记在幕布编辑好后把md文件放过来，记得加一下属性
 # Cautions
 ## About Classifying
 全部文件目录在[[INDEX]]
 
-1. 尽量避免多级分类（除非是强上下级关系，否则都视作独立学科）（就是除了特别不方便的情况，尽量去适应新的存储检索方法。传统上下级一级套一级容易把信息埋太深，而且但从研究内容来说一个维度就是一块新的思想方法，并没有内容上的完美对应深入。
+1. 尽量避免多级分类（除非是强上下级关系，否则都视作独立学科）（就是除了特别不方便的情况，尽量去适应新的存储检索方法。传统上下级一级套一级容易把信息埋太深，而且单从研究内容来说一个维度就是一块新的思想方法，并没有内容上的完美对应深入。
 
 2. 总目录里按照学科方向（传统维度）来分类，文件各自属性按照知识性质/基础科学
 目前三个维度：Science&Humanity、学科分类、知识性质
 
 ## Knowledge Vector
 知识性质又分为两种评判方式：
-	以Science为主：Theory-Enginnering 五档
-	以Humanity为主：Cultural、History、Society（各五档，第二档不用）
+	以Science为主：Theory-Enginnering 五档(TE-Index)
+	以Humanity为主：Cultural、History、Society（出于各五档，实际第二档暂时不用）
 
 
 # Note Patterns
 ## Contents
+
+#Template
 ## Linking
 ## Overall Statement
 每门学科加tag，
