@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Regular Note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Note"
+              "title": "README"
             }
           }
         ]
@@ -184,10 +184,13 @@
   },
   "active": "f388f50b49a99129",
   "lastOpenFiles": [
+    "Circuit Theory/1、基本概念与规律.md",
+    "Circuit Theory/Appendix1. 图论基础.md",
+    "Circuit Theory/Circuit Theory.md",
+    "Graph Theory/Introduction to Graph Theory（R. J. Wilson）.md",
+    "Templates/Regular Note.md",
     "Templates/CourseName.md",
     "README.md",
-    "Circuit Theory/1、基本概念与规律.md",
-    "Circuit Theory/2、图论基础.md",
     "Digital Fundamentals (数电)/3. Logic Gates.md",
     "Digital Fundamentals (数电)/Digital Fundamentals.md",
     "Images/Pasted image 20260309092651.png",
@@ -202,13 +205,10 @@
     "Images/Pasted image 20260309082723.png",
     "Images/Pasted image 20260309081924.png",
     "Templates/Whole-Book Note.md",
-    "Graph Theory/Introduction to Graph Theory（R. J. Wilson）.md",
     "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
     "Graph Theory/Graph Theory.md",
     "INDEX/INDEX.md",
     "INDEX/Nodes/Maths.md",
-    "Templates/Regular Note.md",
-    "Circuit Theory/Circuit Theory.md",
     "系统思考与科学决策/系统思考与科学决策.md",
     "系统思考与科学决策/课堂记录.md",
     "大学物理/1. 力与运动.md",
