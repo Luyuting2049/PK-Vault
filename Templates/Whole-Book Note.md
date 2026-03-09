@@ -7,7 +7,6 @@ Detail: Detailed information of the book.（Author，Time，Edition…）
 ---
 # Contents
 ``` toc
-
 ```
 
 # 1. Date：年份-开始月-结束月. Plugins：Automatic Table Of Contents

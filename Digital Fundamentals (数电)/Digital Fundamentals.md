@@ -3,3 +3,4 @@
 # Content
 1、
 [[2. Number systems, Operations and Codes]]
+[[3. Logic Gates]]

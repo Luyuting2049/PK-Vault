@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Regular Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Regular Note"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 223.5
   },
   "right": {
     "id": "46e98c524c7e3013",
@@ -184,28 +184,44 @@
   },
   "active": "f388f50b49a99129",
   "lastOpenFiles": [
-    "INDEX/INDEX.md",
     "Templates/CourseName.md",
-    "Templates/Regular Note.md",
-    "Templates/Whole-Book Note.md",
     "README.md",
+    "Circuit Theory/1、基本概念与规律.md",
+    "Circuit Theory/2、图论基础.md",
+    "Digital Fundamentals (数电)/3. Logic Gates.md",
+    "Digital Fundamentals (数电)/Digital Fundamentals.md",
+    "Images/Pasted image 20260309092651.png",
+    "Pasted image 20260309092552.png",
+    "Digital Fundamentals (数电)/2. Number systems, Operations and Codes.md",
+    "Images/Pasted image 20260309091050.png",
+    "Images/Pasted image 20260309090826.png",
+    "Images/Pasted image 20260309090456.png",
+    "Images/Pasted image 20260309085659.png",
+    "Images/Pasted image 20260309084050.png",
+    "Images/Pasted image 20260309082915.png",
+    "Images/Pasted image 20260309082723.png",
+    "Images/Pasted image 20260309081924.png",
+    "Templates/Whole-Book Note.md",
+    "Graph Theory/Introduction to Graph Theory（R. J. Wilson）.md",
+    "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
+    "Graph Theory/Graph Theory.md",
+    "INDEX/INDEX.md",
+    "INDEX/Nodes/Maths.md",
+    "Templates/Regular Note.md",
+    "Circuit Theory/Circuit Theory.md",
+    "系统思考与科学决策/系统思考与科学决策.md",
+    "系统思考与科学决策/课堂记录.md",
+    "大学物理/1. 力与运动.md",
+    "大学物理/大学物理.md",
     "工程实践与科技创新/工程实践与科技创新.md",
     "工程实践与科技创新/元器件及原理图认知.md",
     "工程实践与科技创新/工科创概述.md",
-    "Graph Theory/Introduction to Graph Theory（R. J. Wilson）.md",
-    "Graph Theory/Graph Theory.md",
-    "Digital Fundamentals (数电)/2. Number systems, Operations and Codes.md",
-    "Digital Fundamentals (数电)/Digital Fundamentals.md",
     "Data Structure/Data Structure.md",
     "Data Structure/2. 线性表.md",
     "Templates/CourseSubject",
     "未命名.canvas",
     "Obsidian移动端同步.md",
-    "Circuit Theory/2、图论基础.md",
     "2026-03-08.md",
-    "Circuit Theory/1、基本概念与规律.md",
-    "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
-    "西方宗教文化概论/课程简介与参考资源.md",
     "西方宗教文化概论/补充资料/王东成：信仰荒芜的时代民族变得虚无.pdf",
     "西方宗教文化概论/补充资料/流沙河：美国人是我们的朋友.pdf",
     "西方宗教文化概论/补充资料/周汉：被遗忘的晚晴恐怖分子.pdf",
@@ -214,23 +230,6 @@
     "西方宗教文化概论/补充资料/义和团——一场残忍的闹剧.pdf",
     "西方宗教文化概论/补充资料/一个晚清出洋官员傲娇的“独立思考”.pdf",
     "西方宗教文化概论/补充资料/耶鲁大学与长沙雅礼中学.pdf",
-    "西方宗教文化概论/补充资料/丛日云：只要正面阐述西方文明，学生就反感.md",
-    "西方宗教文化概论/补充资料/被砍头的北大校长：许景澄.md",
-    "西方宗教文化概论/西方宗教文化概论.md",
-    "西方宗教文化概论/补充资料/义和团——一场残忍的闹剧.md",
-    "西方宗教文化概论/补充资料/我们今后最大的罪恶，是对她的遗忘.md",
-    "西方宗教文化概论/补充资料/太原北寒大教堂.md",
-    "西方宗教文化概论/补充资料/利类思、安文思.md",
-    "Images/c08941ed194daf1ddb39e0bbac4d5126.jpg",
-    "Images/Pasted image 20260306152500.png",
-    "Images/Pasted image 20260306151323.png",
-    "Images/Pasted image 20260306151126.png",
-    "Images/Pasted image 20260306151036.png",
-    "Images/Pasted image 20260306150857.png",
-    "Images/Pasted image 20260306150704.png",
-    "Images/Pasted image 20260306150657.png",
-    "Images/Pasted image 20260306150332.png",
-    "未命名 1.canvas",
-    "Images/Pasted image 20260306092836.png"
+    "未命名 1.canvas"
   ]
 }
