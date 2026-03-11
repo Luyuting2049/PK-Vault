@@ -31,3 +31,8 @@
 # Culture
 [[西方宗教文化概论]]
 
+# Program Management
+[[人月神话]]
+[[Frederick Phillips]]
+
+

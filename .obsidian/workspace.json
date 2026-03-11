@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学物理/Appendix1.如何学好大学物理.md",
+                "file": "The Mythical Man-Month/人月神话.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Appendix1.如何学好大学物理"
+              "title": "人月神话"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e8a053d1ac6cb1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb60f2f450bac0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "系统思考与科学决策/课堂记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "课堂记录"
             }
           }
         ]
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "right": {
     "id": "46e98c524c7e3013",
@@ -184,44 +204,45 @@
   },
   "active": "f388f50b49a99129",
   "lastOpenFiles": [
-    "大学物理/大学物理.md",
-    "大学物理/Appendix1.如何学好大学物理.md",
+    "Images/Pasted image 20260311181352.png",
+    "Images/Pasted image 20260311184503.png",
+    "Images/1ad459e1ab22177e8226b697bca8da8f.jpg",
+    "Images/69320acdf439ba328b96f85336fee8c4.jpg",
+    "系统思考与科学决策/课堂记录.md",
+    "The Mythical Man-Month/人月神话.md",
+    "69320acdf439ba328b96f85336fee8c4.jpg",
+    "1ad459e1ab22177e8226b697bca8da8f.jpg",
+    "Pasted image 20260311184503.png",
+    "Pasted image 20260311181352.png",
+    "系统思考与科学决策/系统思考与科学决策.md",
+    "The Mythical Man-Month/Frederick Phillips.md",
+    "INDEX/INDEX.md",
+    "INDEX/Nodes/Physics.md",
+    "The Mythical Man-Month",
+    "系统思考与科学决策/未命名.md",
+    "Templates/CourseName.md",
+    "INDEX/Nodes/Maths.md",
+    "INDEX/Nodes/Engineering.md",
+    "INDEX/Nodes/Electrical.md",
+    "INDEX/Nodes/Culture.md",
+    "INDEX/Nodes/CS.md",
+    "Digital Fundamentals (数电)/3. Logic Gates.md",
+    "Digital Fundamentals (数电)/2. Number systems, Operations and Codes.md",
+    "Data Structure/Data Structure.md",
+    "Data Structure/2. 线性表.md",
     "Data Structure/0. 程序规范与Google码风（C++篇）.md",
     "CodeStyle/程序规范（Java篇）.md",
     "CodeStyle/Contents (Languages).md",
+    "Circuit Theory/Appendix1. 图论基础.md",
+    "Circuit Theory/Circuit Theory.md",
+    "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
+    "工程实践与科技创新/工程实践与科技创新.md",
+    "工程实践与科技创新/元器件及原理图认知.md",
+    "工程实践与科技创新/工科创概述.md",
     "CodeStyle",
-    "Data Structure/2. 线性表.md",
-    "Data Structure/1. 数据结构概述 & C++复习.md",
-    "大学物理/1. 力与运动.md",
-    "Circuit Theory/1、基本概念与规律.md",
-    "Routine.md",
-    "Digital Fundamentals (数电)/3. Logic Gates.md",
-    "Digital Fundamentals (数电)/Digital Fundamentals.md",
-    "Digital Fundamentals (数电)/2. Number systems, Operations and Codes.md",
-    "README.md",
     "Images/Pasted image 20260309152928.png",
     "Images/Pasted image 20260309152334.png",
     "Images/Pasted image 20260309152318.png",
-    "Images/Pasted image 20260309150631.png",
-    "Images/Pasted image 20260309143657.png",
-    "Images/Pasted image 20260309153959.png",
-    "Images/Pasted image 20260309153754.png",
-    "Images/Pasted image 20260309153626.png",
-    "Pasted image 20260309153959.png",
-    "Pasted image 20260309153754.png",
-    "Circuit Theory/Appendix1. 图论基础.md",
-    "Circuit Theory/Circuit Theory.md",
-    "Graph Theory/Introduction to Graph Theory（R. J. Wilson）.md",
-    "Templates/Regular Note.md",
-    "Templates/CourseName.md",
-    "Templates/Whole-Book Note.md",
-    "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
-    "Graph Theory/Graph Theory.md",
-    "INDEX/INDEX.md",
-    "INDEX/Nodes/Maths.md",
-    "系统思考与科学决策/系统思考与科学决策.md",
-    "系统思考与科学决策/课堂记录.md",
-    "工程实践与科技创新/工程实践与科技创新.md",
     "Templates/CourseSubject",
     "未命名.canvas",
     "西方宗教文化概论/补充资料/王东成：信仰荒芜的时代民族变得虚无.pdf",
@@ -230,7 +251,6 @@
     "西方宗教文化概论/补充资料/周汉：被遗忘的晚晴恐怖分子.pdf.crdownload",
     "西方宗教文化概论/补充资料/易中天：鸦片战争中的忽悠.pdf",
     "西方宗教文化概论/补充资料/义和团——一场残忍的闹剧.pdf",
-    "西方宗教文化概论/补充资料/一个晚清出洋官员傲娇的“独立思考”.pdf",
     "未命名 1.canvas"
   ]
 }
