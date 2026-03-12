@@ -4,3 +4,4 @@
 1、
 [[2. Number systems, Operations and Codes]]
 [[3. Logic Gates]]
+[[4. Boolean Algebra and Logic Simplification]]
