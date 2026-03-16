@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Fundamentals (数电)/4. Boolean Algebra and Logic Simplification.md",
+                "file": "Circuit Theory/1、基本概念与规律.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Boolean Algebra and Logic Simplification"
+              "title": "1、基本概念与规律"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "46e98c524c7e3013",
@@ -185,13 +184,20 @@
   },
   "active": "1e7140ac3ca1b2e7",
   "lastOpenFiles": [
-    "Pasted image 20260316083928.png",
-    "Pasted image 20260316083559.png",
-    "Pasted image 20260316083356.png",
-    "Pasted image 20260316082721.png",
-    "Pasted image 20260316080623.png",
-    "Digital Fundamentals (数电)/3. Logic Gates.md",
+    "Images/72c8f1281e25df333dfb5a3a2e8ffe53.jpg",
+    "Images/Pasted image 20260316153839.png",
+    "Images/Pasted image 20260316153539.png",
+    "Images/Pasted image 20260316080623.png",
+    "Images/Pasted image 20260316152618.png",
+    "Images/Pasted image 20260316151617.png",
+    "Images/Pasted image 20260316150948.png",
+    "Images/Pasted image 20260316150659.png",
+    "Images/Pasted image 20260316150603.png",
+    "Images/Pasted image 20260316145830.png",
+    "Images/Pasted image 20260316145812.png",
+    "Circuit Theory/Appendix1. 图论基础.md",
     "Digital Fundamentals (数电)/4. Boolean Algebra and Logic Simplification.md",
+    "Digital Fundamentals (数电)/3. Logic Gates.md",
     "Templates/Whole-Book Note.md",
     "The Mythical Man-Month/The Mythical Agent-Month.md",
     "Videos",
@@ -200,13 +206,6 @@
     "The Mythical Man-Month/Frederick Phillips.md",
     "The Mythical Man-Month/创业课pre：从Brooks的人月神话中一窥软工项目管理方法.md",
     "Circuit Theory/1、基本概念与规律.md",
-    "Images/Pasted image 20260312193359.png",
-    "Images/Pasted image 20260312193010.png",
-    "Images/Pasted image 20260312192358.png",
-    "Images/Pasted image 20260312190331.png",
-    "Images/Pasted image 20260312183836.png",
-    "Images/Pasted image 20260312183635.png",
-    "Circuit Theory/Appendix1. 图论基础.md",
     "Circuit Theory/Circuit Theory.md",
     "BOOKS/No_Silver_Bullet.pdf",
     "西方宗教文化概论/1. 课程简介与参考资源.md",
