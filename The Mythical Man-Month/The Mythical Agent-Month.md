@@ -17,6 +17,8 @@ do as much good in the world as I can
 essential complexity
 accidental complexity
 
+来不及写文稿了，先放个pre作业的视频吧
+![[20260313_113846.mp4]]
 
 
 
