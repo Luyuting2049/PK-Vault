@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方宗教文化概论/2. 宗教导论.md",
+                "file": "西方宗教文化概论/3. 基督教东渐史.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 宗教导论"
+              "title": "3. 基督教东渐史"
             }
           }
         ]
@@ -184,10 +184,11 @@
   },
   "active": "1e7140ac3ca1b2e7",
   "lastOpenFiles": [
-    "西方宗教文化概论/3..md",
-    "西方宗教文化概论/西方宗教文化概论.md",
-    "西方宗教文化概论/2. 宗教导论.md",
     "西方宗教文化概论/1. 课程简介与参考资源.md",
+    "西方宗教文化概论/2. 宗教导论.md",
+    "西方宗教文化概论/3. 基督教东渐史.md",
+    "西方宗教文化概论/西方宗教文化概论.md",
+    "西方宗教文化概论/3..md",
     "Digital Fundamentals (数电)/4. Boolean Algebra and Logic Simplification.md",
     "Pasted image 20260319083132.png",
     "Digital Fundamentals (数电)/Digital Fundamentals.md",
@@ -224,7 +225,6 @@
     "Templates/CourseName.md",
     "INDEX/Nodes/Maths.md",
     "INDEX/Nodes/Engineering.md",
-    "INDEX/Nodes/Electrical.md",
     "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
     "CodeStyle",
     "Templates/CourseSubject",
