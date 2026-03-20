@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西方宗教文化概论/3. 基督教东渐史.md",
+                "file": "Data Structure/3. 栈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 基督教东渐史"
+              "title": "3. 栈"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "46e98c524c7e3013",
@@ -184,25 +185,30 @@
   },
   "active": "1e7140ac3ca1b2e7",
   "lastOpenFiles": [
+    "Pasted image 20260320090946.png",
+    "Pasted image 20260320085920.png",
+    "Pasted image 20260320085615.png",
+    "Pasted image 20260320084316.png",
+    "Pasted image 20260320083625.png",
+    "Pasted image 20260320083419.png",
+    "Pasted image 20260320082820.png",
+    "Pasted image 20260320080355.png",
+    "Data Structure/2. 线性表.md",
+    "Data Structure/3. 栈.md",
+    "Circuit Theory/2、电路分析的基本方法.md",
+    "Pasted image 20260319194006.png",
+    "Pasted image 20260319193709.png",
+    "Pasted image 20260319193151.png",
+    "Circuit Theory/Circuit Theory.md",
+    "Circuit Theory/1、基本概念与规律.md",
+    "Circuit Theory/Appendix1. 图论基础.md",
+    "西方宗教文化概论/3. 基督教东渐史.md",
     "西方宗教文化概论/1. 课程简介与参考资源.md",
     "西方宗教文化概论/2. 宗教导论.md",
-    "西方宗教文化概论/3. 基督教东渐史.md",
     "西方宗教文化概论/西方宗教文化概论.md",
     "西方宗教文化概论/3..md",
     "Digital Fundamentals (数电)/4. Boolean Algebra and Logic Simplification.md",
-    "Pasted image 20260319083132.png",
     "Digital Fundamentals (数电)/Digital Fundamentals.md",
-    "Circuit Theory/1、基本概念与规律.md",
-    "Images/72c8f1281e25df333dfb5a3a2e8ffe53.jpg",
-    "Images/Pasted image 20260316153839.png",
-    "Images/Pasted image 20260316153539.png",
-    "Images/Pasted image 20260316080623.png",
-    "Images/Pasted image 20260316152618.png",
-    "Images/Pasted image 20260316151617.png",
-    "Images/Pasted image 20260316150948.png",
-    "Images/Pasted image 20260316150659.png",
-    "Images/Pasted image 20260316150603.png",
-    "Circuit Theory/Appendix1. 图论基础.md",
     "Digital Fundamentals (数电)/3. Logic Gates.md",
     "Templates/Whole-Book Note.md",
     "The Mythical Man-Month/The Mythical Agent-Month.md",
@@ -211,7 +217,6 @@
     "The Mythical Man-Month/人月神话.md",
     "The Mythical Man-Month/Frederick Phillips.md",
     "The Mythical Man-Month/创业课pre：从Brooks的人月神话中一窥软工项目管理方法.md",
-    "Circuit Theory/Circuit Theory.md",
     "BOOKS/No_Silver_Bullet.pdf",
     "2026-03-08.md",
     "BOOKS/新建文件夹",
@@ -221,10 +226,6 @@
     "INDEX/INDEX.md",
     "INDEX/Nodes/Physics.md",
     "The Mythical Man-Month",
-    "系统思考与科学决策/未命名.md",
-    "Templates/CourseName.md",
-    "INDEX/Nodes/Maths.md",
-    "INDEX/Nodes/Engineering.md",
     "BOOKS/Graph Theory/Introduction to Graph Theory.pdf",
     "CodeStyle",
     "Templates/CourseSubject",
